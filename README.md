@@ -1,4 +1,5 @@
 ## Game(tutorial)
+> just learning pygame
 
 - defaults : main
 - branchs
