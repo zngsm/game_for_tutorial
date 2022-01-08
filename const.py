@@ -1,0 +1,12 @@
+# 스크린 크기
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 800
+
+# 색상
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+WHITE = (255, 255, 255)
+GRAY = (128, 128, 128)
+YELLOW = (255, 255, 0)
